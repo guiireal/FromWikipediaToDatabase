@@ -1,0 +1,16 @@
+{
+  "name": "extracao_especialidade",
+  "version": "1.0.0",
+  "description": "Extrai uma lista de especialidades médicas do Wikipedia",
+  "main": "index.js",
+  "author": "Guilherme França",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jsdom": "^14.0.0",
+    "node-wikipedia": "^0.0.2"
+  }
+}
