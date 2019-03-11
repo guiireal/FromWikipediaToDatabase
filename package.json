@@ -6,7 +6,8 @@
   "author": "Guilherme França",
   "license": "MIT",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "test": "no test"
   },
   "dependencies": {
     "jquery": "^3.3.1",
